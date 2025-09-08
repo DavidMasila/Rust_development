@@ -18,8 +18,8 @@ fn five() -> i32 {
     5
     //function that returns a value. No semicolons are included on the end to avoid maing it a statement
     /*
-     Rust is expression-based language.
-     */
+    Rust is expression-based language.
+    */
 }
 
 fn plus_one(z: i32) -> i32{
